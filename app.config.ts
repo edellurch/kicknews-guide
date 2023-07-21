@@ -1,6 +1,7 @@
 export default defineAppConfig({
   docus: {
     title: 'BK Guide',
+    url: 'https://guide.beyondkick.com',
     socials: {
       twitter: 'Beyond_Kick',
       instagram: 'beyondkickboxing',
